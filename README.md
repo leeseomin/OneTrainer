@@ -1,4 +1,6 @@
-# OneTrainer : ⭕ Python 3.10 
+# OneTrainer : 
+
+⭕ Python 3.10 
 
 OneTrainer is a one-stop solution for all your stable diffusion training needs.
 
